@@ -17,8 +17,13 @@ int fun1(int a)
 
 int main()
 {
-    cout<<"hello"<<endl;
-    int a = fun1(5);
-    cout<<a<<endl;
+    // cout<<"hello"<<endl;
+    // int a = fun1(5);
+    // cout<<a<<endl;
+
+    
+
+
+
     return 0 ;
 }
