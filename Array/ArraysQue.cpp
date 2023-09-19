@@ -32,6 +32,7 @@ void printAllPairs(int arr[], int n)
 }
 
 // print the each TRIPLET pair of an array [ unique - should not repeat]
+// three sum - quetions : hw 
 void printTripletPair(int arr[], int n)
 {
     for(int i=0 ; i<n ; i++){
@@ -67,6 +68,7 @@ void sort0and1(int arr[], int n)
     }
 }
 
+// shift by 'k' element : hw 
 void shiftArray(int arr[], int n)
 {
     int temp = arr[n-1];
