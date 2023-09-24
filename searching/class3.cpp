@@ -82,7 +82,7 @@ int nearlySortedArray(int arr[] , int n , int target)
 }
 
 
-// Find the ODD occuring element
+// Find the ODD occuring element - vvimp 
 int findOddOccuringElement(int arr[], int n) {
   int s = 0;
   int e = n-1;
