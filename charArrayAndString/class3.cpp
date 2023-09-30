@@ -30,6 +30,12 @@ using namespace std;
 
 
 
+// LC 2125 : Numb of Laser beams in a Bank  ==>> HW
+
+
+
+
+
 
 
 
