@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/charArrayAndString",
-      "program": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/charArrayAndString/build/Debug/outDebug",
+      "cwd": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/searching",
+      "program": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/searching/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
