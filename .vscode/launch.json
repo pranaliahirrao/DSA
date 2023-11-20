@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/searching",
-      "program": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/searching/build/Debug/outDebug",
+      "cwd": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/recurssion",
+      "program": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/recurssion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
