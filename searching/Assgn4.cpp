@@ -29,12 +29,7 @@ using namespace std;
 // Method 2 : Binary search 
 
 
-
-
 // LC 658 : Find K-closest elements
-
-
-
 
 
 int main()
