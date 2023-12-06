@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/LinkedList",
-      "program": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/LinkedList/build/Debug/outDebug",
+      "cwd": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/Array",
+      "program": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
