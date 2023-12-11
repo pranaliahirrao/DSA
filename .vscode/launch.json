@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/Array",
-      "program": "c:/Users/devel/OneDrive/Desktop/Pranali_only/DSA/Array/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/Users/pranaliahirrao/Desktop/Pranali_only/DSA/DSA/searching",
+      "program": "/Users/pranaliahirrao/Desktop/Pranali_only/DSA/DSA/searching/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
