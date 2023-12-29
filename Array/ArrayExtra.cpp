@@ -1,5 +1,5 @@
 // sep 12 - Array extra class
-#include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
 
 
@@ -21,6 +21,7 @@ void shiftNegativeLeftSide(int arr[] , int n)
 
 // LeetCode : 75 -> sort colors 
 // LeetCode : 189 -> Rotate Array 
+// LeetCode : 268 -> Missing Number 
 // LeetCode : 2149 -> Rearrange array Elements by sign => HW 
 // LeetCode : 2643 -> Row with Maximum ones   
 // LeetCode : 48 -> Rotate Image  => VVVVIMPPP [ very imp ] => 1st step : Transpose & 2ns step : Reverse 

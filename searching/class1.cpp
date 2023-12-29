@@ -122,15 +122,16 @@ int findMissingElement(int arr[], int n )
         }
          mid = s + (e - s) / 2;
     }
-    
 
     // edge case : when 1 to N is given then n+1 will be the ans 
+    // bc ans = -1 and then +1 , means it doesnt get resolved 
     if(ans+1 == 0)
        return n+1 ;
 
-
     return ans+1 ;
 }
+
+
 
 // Peak elem in mountain array - lc : 852 / nb 
 

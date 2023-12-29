@@ -4,6 +4,7 @@
 using namespace std ;
 
 // find largest element in an array
+// TC = O(n) , SC = O(1)
 int largestElem(int arr[], int n)
 {
     int largestNumb = arr[0] ;
@@ -15,6 +16,7 @@ int largestElem(int arr[], int n)
     }
     return largestNumb ;
 }
+
 
 // find 2nd largest element in an array
 int secondLargestElem(int arr[], int n)
@@ -55,6 +57,7 @@ int secondLargestElem(int arr[], int n)
     return sLargest;
 }
 
+
 //  Check if Array is Sorted or not.
 bool sortedArray(int arr[], int n)
 {
@@ -68,6 +71,7 @@ bool sortedArray(int arr[], int n)
     }
     return true;
 }
+
 
 // remove duplicates in-place from sorted array 
 int removeDuplicates(int arr[], int n)
@@ -86,6 +90,7 @@ int removeDuplicates(int arr[], int n)
     }
     return i+1 ;
 }
+
 
 // Left rotate the array by one place 
 void leftRotateArr(int arr[], int n)
