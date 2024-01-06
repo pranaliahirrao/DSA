@@ -3,7 +3,7 @@ using namespace std;
 
 
 
-// Key Pair/ Two Sum - GFG/ notebook
+// Key Pair/ Two Sum - GFG/ notebook  [Two Sum - on LeetCode ]
 // LC : 724 : Find Pivot Index - notebook/ LC 
 // LC : 75 : Sort colors - notebook / LC
 // LC : 268 : Missing Number - notebook / LC
